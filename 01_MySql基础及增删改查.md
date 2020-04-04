@@ -16,11 +16,11 @@
 
 mysql基本结构如下
 
-![](C:\Users\宋天\Desktop\mysql\img\mysql基本结构.png)
+![](img/mysql基本结构.png)
 
 其中，实际表的数据和结构如下所示
 
-![](C:\Users\宋天\Desktop\mysql\img\数据表结构.png)
+![](img/数据表结构.png)
 
 名词解释：
 
@@ -44,11 +44,11 @@ mysql基本结构如下
 
 - 比如：上述的两个表，就可以用“E-R”图（实体-关系图）表示
 
-  ![](C:\Users\宋天\Desktop\mysql\img\E-R图1.png)
+  ![](img/E-R图1.png)
 
   ​		
 
-  ![](C:\Users\宋天\Desktop\mysql\img\E-R图2.png)
+  ![](img/E-R图2.png)
 
 ## 2.访问mysql数据库服务器
 
@@ -82,7 +82,7 @@ mysql基本结构如下
    ```
    quit;
    exit;
-   \q;
+   /q;
    ```
 
    以上三选一

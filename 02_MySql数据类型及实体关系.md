@@ -1,6 +1,6 @@
 # 02_MySql数据类型
 
-![](C:\Users\宋天\Desktop\mysql\img\mysql数据类型.png)
+![](img/mysql数据类型.png)
 
 mysql数据类型基本分为：数字型，时间型，字符型。
 
@@ -312,7 +312,7 @@ create table aaa(
 
 如图：
 
-![](C:\Users\宋天\Desktop\mysql\img\实体关系图.png)
+![](img/实体关系图.png)
 
 
 
@@ -320,7 +320,7 @@ create table aaa(
 
 概念：表示一个表跟另一个表之间的数据之间一对一的关系。如图
 
-![](C:\Users\宋天\Desktop\mysql\img\一对一关系.png)
+![](img/一对一关系.png)
 
 现实案例：
 
@@ -336,7 +336,7 @@ create table aaa(
 
 概念：表示一个表跟另一个表之间的数据之间是一对多的关系。如图：
 
-![](C:\Users\宋天\Desktop\mysql\img\一对多关系.png)
+![](img/一对多关系.png)
 
  现实案例 ：
 
@@ -352,7 +352,7 @@ create table aaa(
 
 概念：表示一个表跟另一个表之间的数据是多对多的关系，如图：
 
-![](C:\Users\宋天\Desktop\mysql\img\多对多关系.png)
+![](img/多对多关系.png)
 
 现实案例：
 
